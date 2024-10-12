@@ -1,0 +1,13 @@
+openai
+python-dotenv
+chromadb
+pandas
+dotenv 
+chromadb
+PyPDF2 
+requests
+tqdm
+pandas 
+numpy  
+textwrap3 
+itertools
